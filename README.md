@@ -4,6 +4,7 @@
 在《Android精彩编程200例》中看到这个功能的实现，整理记录下来
 
 使用自定义控件+ListView显示
+<img src="https://github.com/Studently/SlideDeleteView/tree/master/gif/效果演示.gif" width=200 height=360 />
 
 ![image](https://github.com/Studently/SlideDeleteView/tree/master/gif/效果演示.gif)
 
