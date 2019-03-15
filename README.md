@@ -4,6 +4,7 @@
 在《Android精彩编程200例》中看到这个功能的实现，整理记录下来
 
 使用自定义控件+ListView显示
+![](https://github.com/fxjzzyo/TabViewpagerFragment/raw/master/img/Animation.gif "gif演示")  
 ![](https://github.com/Studently/SlideDeleteView/tree/master/gif/效果演示.gif "gif效果演示")
 
 首先自定义一个SlidingButtonView
