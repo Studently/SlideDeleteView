@@ -5,7 +5,7 @@
 
 使用自定义控件+ListView显示
 
-![image](https://github.com/Studently/SlideDeleteView/tree/master/gif)
+![image](https://github.com/Studently/SlideDeleteView/tree/master/gif/效果演示.gif)
 
 首先自定义一个SlidingButtonView
 
