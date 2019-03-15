@@ -5,6 +5,8 @@
 
 使用自定义控件+ListView显示
 gif效果演示
+
+
 ![image](https://github.com/Studently/SlideDeleteView/blob/master/gif/%E6%95%88%E6%9E%9C%E6%BC%94%E7%A4%BA.gif "gif效果演示")
 
 首先自定义一个SlidingButtonView
